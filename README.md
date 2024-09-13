@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project React - Cosden Solutions
 
 Learn React by building a real-world project.
@@ -33,3 +34,7 @@ To fix any linting or formatting issues across all relevant files, run this comm
 ```sh
 npm run fix
 ```
+=======
+# project-react
+https://cosden.solutions/project-react
+>>>>>>> 21bd9eb163b7159f15ce3af4fcf53f9f96d1dbb2
